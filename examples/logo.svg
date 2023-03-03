@@ -1,0 +1,9 @@
+<svg
+ 
+ xmlns="http://www.w3.org/2000/svg" >
+    <polygon  
+      points= "150,0 275,175 25,175"  
+      fill="Red" width = "300" 
+      height = "300"/>
+    <text x='50' y="100" font-size="100"   fill="Red">DST</text>
+  </svg>
